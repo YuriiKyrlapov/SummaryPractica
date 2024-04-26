@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-<<<<<<< Updated upstream
 .container{
     max-width: 1440px;
     height: 475px;
@@ -75,7 +74,6 @@ p{
 .image img {
     width: 48px;
     height: 64px;
-=======
 .stock {
     width: 1440px;
     
@@ -110,5 +108,4 @@ h2 {
 }
 .stock_1 p {
     background-color: #8CC4EC;
->>>>>>> Stashed changes
 }
